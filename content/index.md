@@ -1,10 +1,10 @@
 ---
-title: Fantasy-Vault Laute Gruppe
+title: Fantasy-Vault : Laute Gruppe
 ---
 
-# Herzlich willkommen!
+# Willkommen Reisende!
 
-Hier findet ihr Alles, was mit der Welt in der wir spielen zu tun hat.
+Hier findet ihr alles Wissenswerte rund um unser Setting.
 
 - [Startseite der Kampagne](/1.-Start/Willkommen)  
 - [Sessions](/Sessions)  
