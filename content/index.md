@@ -1,14 +1,14 @@
 ---
-title: Willkommen in meinem DnD-Vault
+title: Fantasy-Vault Laute Gruppe
 ---
 
 # Herzlich willkommen!
 
-Das ist mein persönliches Ideaverse zu Bethustea und der Welt drumherum.
+Hier findet ihr Alles, was mit der Welt in der wir spielen zu tun hat.
 
-- [Alle Notizen erkunden →](/graph)  
 - [Startseite der Kampagne](/1.-Start/Willkommen)  
-- [Charaktere](/Charaktere)  
-- [Geographie & Politik](/Geographie--and--Politik)
+- [Sessions](/Sessions)  
+- [Termine](/Termine)
+- [Die Party](/Party)
 
 Viel Spaß beim Stöbern!
