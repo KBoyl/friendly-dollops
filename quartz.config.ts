@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "/kboyl.github.io/friendly-dollops",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["**/_private/**", "private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
