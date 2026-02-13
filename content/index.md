@@ -1,5 +1,5 @@
 ---
-title: Fantasy-Vault : Laute Gruppe
+title: Fantasy-Vault Laute Gruppe
 ---
 
 # Willkommen Reisende!
