@@ -40,7 +40,7 @@ Hilft Gerd seit ca. 6 Jahren (seit sie 18/19 war); kennt das Dorf und seine Gehe
 - Vermeidet Augenkontakt bei direkten Lügen; bei Wahrheit schaut sie direkt in die Augen  
 - Sammelt unauffällig Gerüchte und Infos – flüstert sie später Gerd zu oder behält sie für sich
 
-## Wichtige Infos & Gerüchte (was die Spieler wissen / herausfinden können)
+## Wichtige Infos & Gerüchte
 
 - Arbeitet seit 6 Jahren für Gerd; wohnt in einer kleinen Kammer hinter der Küche  
 - Weiß von der „verlassenen Kammer“ oben und hat sie selbst schon mal sauber gemacht („Staub und Spinnweben, nix Besonderes“)  
@@ -49,7 +49,7 @@ Hilft Gerd seit ca. 6 Jahren (seit sie 18/19 war); kennt das Dorf und seine Gehe
 - Flirtet harmlos mit Gästen für bessere Trinkgelder, aber zieht sich sofort zurück, wenn es ernst wird  
 - Kennt alle Dorfgossips: vermisste Schafe, Lichter im Wald, der Fremde vor zwei Nächten
 
-## Mögliche Hooks / Geheimnisse (DM-Notizen – spoiler für Spieler)
+## Mögliche Hooks / Geheimnisse (DM-Notizen)
 
 - **Zeugin des Schreibers**  
   Lene hat den Schreiber in seiner letzten Nacht weinen hören – er murmelte „es flüstert... es will mehr...“ Sie hat Gerd nichts gesagt, aus Angst.

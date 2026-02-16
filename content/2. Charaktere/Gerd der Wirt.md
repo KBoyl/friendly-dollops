@@ -42,7 +42,7 @@ Besitzer des Gebäudes seit ca. 18 Jahren (seit dem Tod seines Onkels)
 - Spuckt gelegentlich ins Sägemehl auf dem Boden (alte Gewohnheit)  
 - Wird laut und polterig, wenn Betrunkene randalieren – aber greift selten selbst ein (ruft stattdessen „Raus!“ und zeigt mit dem Daumen zur Tür)
 
-## Wichtige Infos & Gerüchte (was die Spieler wissen / herausfinden können)
+## Wichtige Infos & Gerüchte
 
 - Hat die Taverne vor 18 Jahren übernommen, nachdem sein Onkel „einfach verschwunden“ ist (offiziell: nach Süden gezogen, niemand glaubt das wirklich)  
 - Der obere Stock hat seit mindestens 3 Wintern eine Kammer, die „niemand mehr nimmt“ → dort wohnte früher ein fahrender Schreiber / Gelehrter  
@@ -51,7 +51,7 @@ Besitzer des Gebäudes seit ca. 18 Jahren (seit dem Tod seines Onkels)
 - Hat eine leise Abneigung gegen Magier und „Leute, die mit Büchern rumwedeln“  
 - Zahlt pünktlich die Abgaben an den [[Vogt von Brunnental]] – will keinen Ärger mit der Obrigkeit
 
-## Mögliche Hooks / Geheimnisse (DM-Notizen – spoiler für Spieler)
+## Mögliche Hooks / Geheimnisse (DM-Notizen)
 
 - **Das verschwundene Buch-Siegel**  
   Gerd hat vor Jahren einmal das rostige Schloss des Buches gesehen, als der Schreiber es ihm stolz zeigte. Er hat panische Angst, dass es „wieder anfängt zu flüstern“.  

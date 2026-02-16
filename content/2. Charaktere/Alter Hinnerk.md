@@ -40,7 +40,7 @@ Lebt von einer kleinen Rente, gelegentlichen Handreichungen und dem, was die Dor
 - Antwortet einsilbig oder weicht auf Schafe/Wetter/Themen aus, die er kontrollieren kann  
 - Wird gesprächig, wenn man ihm ein Bier oder einen Schnaps spendiert – dann fließen die alten Geschichten
 
-## Wichtige Infos & Gerüchte (was die Spieler wissen / herausfinden können)
+## Wichtige Infos & Gerüchte
 
 - Lebt seit über 50 Jahren im Dorf; kennt jede Familie, jeden Skandal, jedes Geheimnis  
 - War früher der beste Schäfer im Tal – seine Herde war die größte; seit 15 Jahren keine Schafe mehr („die Wölfe… oder was Schlimmeres“)  
@@ -49,7 +49,7 @@ Lebt von einer kleinen Rente, gelegentlichen Handreichungen und dem, was die Dor
 - War früher mit [[Gerd der Wirt|Gerd]]s Onkel befreundet – redet nie darüber, wird nur traurig, wenn der Name fällt  
 - Sitzt oft stundenlang da und starrt in Richtung des alten Waldrands
 
-## Mögliche Hooks / Geheimnisse (DM-Notizen – spoiler für Spieler)
+## Mögliche Hooks / Geheimnisse (DM-Notizen)
 
 - **Der Pakt mit dem Wald**  
   Als junger Mann hat Hinnerk einmal ein Versprechen gegeben, um seine Schafe vor einem harten Winter zu retten. Etwas im Wald hat geantwortet. Seitdem hört er manchmal Flüstern – und seit dem Buch ist es lauter geworden.
