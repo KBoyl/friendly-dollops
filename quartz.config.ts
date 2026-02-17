@@ -52,6 +52,18 @@ const config: QuartzConfig = {
         },
       },
     },
+
+additionalHead: [
+  '<meta property="og:title" content="Liber Vocum Arcanarum ✨" />',
+  '<meta property="og:description" content="DnD-Kampagne-Notizen, Obsidian-Vault, Setting und Arkanes Wissen" />',
+  '<meta property="og:type" content="website" />',
+  '<meta property="og:url" content="https://kboyl.github.io/friendly-dollops/" />',
+  '<meta property="og:image" content="https://kboyl.github.io/friendly-dollops/assets/EmbedThumb.png" />',
+  '<meta property="og:image:width" content="1200" />',
+  '<meta property="og:image:height" content="630" />',
+  '<meta name="twitter:card" content="summary_large_image" />',
+  '<meta name="twitter:image" content="https://kboyl.github.io/friendly-dollops/assets/EmbedThumb.png" />',
+],
   },
   plugins: {
     transformers: [
