@@ -69,7 +69,7 @@ Besitzer des Gebäudes seit ca. 18 Jahren (seit dem Tod seines Onkels)
 
 - [[Lene die Schankmaid]] → behandelt sie streng, aber väterlich; sie ist die Einzige, die er wirklich mag  
 - [[Alter Hinnerk]] → alte Bekanntschaft, trinken manchmal zusammen, aber streiten ständig über Politik/Wetter/Schafe  
-- [[Laute Gruppe|Die Helden]]| → momentan: misstrauisch-neutral. Je länger sie bleiben und je mehr sie fragen, desto nervöser wird er  
+- [[Laute Gruppe|Die Helden]] → momentan: misstrauisch-neutral. Je länger sie bleiben und je mehr sie fragen, desto nervöser wird er  
 - [[Der Schreiber]] (verstorben/verschwunden) → ehemaliger Gast, großes schlechtes Gewissen
 
 ## Zitate

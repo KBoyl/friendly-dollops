@@ -71,7 +71,7 @@ Verbrachte ca. 4–5 Monate in Brunnental, hauptsächlich in der Dachkammer des 
 - [[Gerd der Wirt]] → zahlender Gast; Gerd fühlte sich schuldig, ihn oben einquartiert zu haben  
 - [[Lene die Schankmaid]] → einzige Person, mit der er öfter sprach; sie hatte Mitleid mit ihm  
 - [[Alter Hinnerk]] → misstraute ihm von Anfang an; sah ihn als „Bringer des Unglücks“  
-- Die Helden → indirekt: sie haben sein Erbe gefunden; wenn sie das Buch lesen, könnte Elias’ Stimme (oder Restseele) durch das Buch zu ihnen sprechen
+- [[Laute Gruppe|Die Helden]] → indirekt: sie haben sein Erbe gefunden; wenn sie das Buch lesen, könnte Elias’ Stimme (oder Restseele) durch das Buch zu ihnen sprechen
 
 ## Zitate (aus Erinnerungen)
 

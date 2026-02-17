@@ -67,7 +67,7 @@ Hilft Gerd seit ca. 6 Jahren (seit sie 18/19 war); kennt das Dorf und seine Gehe
 
 - [[Gerd der Wirt]] → väterliche Autorität; respektiert ihn, fürchtet seine Wutausbrüche, deckt aber seine Geheimnisse  
 - [[Alter Hinnerk]] → ignoriert ihn meist; er betatscht sie gelegentlich, sie weicht aus  
-- Die Helden → neugierig, aber vorsichtig; plaudert mehr mit Frauen/Elfen als mit Orks/Zwergen  
+- [[Laute Gruppe|Die Helden]] → neugierig, aber vorsichtig; plaudert mehr mit Frauen/Elfen als mit Orks/Zwergen  
 - [[Der verschwundene Schreiber]] → hatte Mitleid mit ihm; bewahrt sein Amulett als Andenken  
 - [[Junge Holzfäller (Torsten)]] → heimliche Affäre; er ist der „Fremde“, der vor zwei Nächten verschwand?
 

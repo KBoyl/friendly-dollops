@@ -72,7 +72,7 @@ Residiert in der kleinen steinernen Vogtei am oberen Dorfrand (ehemalige Burgtur
 - [[Gerd der Wirt]] → zuverlässiger Steuerzahler; Harlan mag ihn nicht, toleriert ihn aber  
 - [[Lene die Schankmaid]] → ignoriert sie meist; sie fürchtet ihn (hat mal eine Vorladung wegen Tratsch erhalten)  
 - [[Alter Hinnerk]] → hält ihn für einen senilen Quertreiber; Hinnerk hasst den Vogt („der nimmt uns alles und gibt nix zurück“)  
-- Die Helden → potenziell nützlich (Abenteurer = Problemlöser), aber verdächtig (Fremde = Ärger)  
+- [[Laute Gruppe|Die Helden]] → potenziell nützlich (Abenteurer = Problemlöser), aber verdächtig (Fremde = Ärger)  
 - [[Der verschwundene Schreiber]] → ehemaliger Störenfried; Harlan war erleichtert über sein Verschwinden  
 - Der Graf (übergeordnet) → muss Bericht erstatten; fürchtet Kontrolle von oben
 

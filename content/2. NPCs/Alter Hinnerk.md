@@ -67,7 +67,7 @@ Lebt von einer kleinen Rente, gelegentlichen Handreichungen und dem, was die Dor
 
 - [[Gerd der Wirt]] → alte Bekanntschaft; trinken manchmal zusammen, streiten aber ständig (über alles Mögliche)  
 - [[Lene die Schankmaid]] → ignoriert sie meist; sie geht ihm aus dem Weg (er betatscht gelegentlich, sie hasst das)  
-- Die Helden → anfangs feindselig-misstrauisch; kann aber zu einer wichtigen Informationsquelle werden, wenn man Geduld hat  
+- [[Laute Gruppe|Die Helden]] → anfangs feindselig-misstrauisch; kann aber zu einer wichtigen Informationsquelle werden, wenn man Geduld hat  
 - [[Der verschwundene Schreiber]] → hat ihn mehrmals gesehen; traute ihm nie  
 - Die Dorfbewohner → respektieren ihn als „den, der alles weiß“, halten ihn aber für verrückt oder übertrieben
 
