@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: cdcmt-wxeag
-created: 2026-02-28T02:01:51+01:00
