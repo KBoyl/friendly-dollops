@@ -1,0 +1,5 @@
+- 3km pro Hex, Hex ist die kleinste Einheit. 
+		- Straßen : 1h
+		- Felder/Hügel : 2h
+		- Moor/Wald : 4h
+		- Berge : 8h
