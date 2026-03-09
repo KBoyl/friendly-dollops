@@ -10,3 +10,14 @@
 .section-li time {
   display: none !important;
 }
+
+// Mermaid Diagramme
+.mermaid svg {
+  max-width: none !important;
+  width: 100% !important;
+  overflow: visible !important;
+}
+
+.mermaid {
+  overflow-x: auto;
+}

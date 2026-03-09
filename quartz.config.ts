@@ -58,11 +58,11 @@ additionalHead: [
   '<meta property="og:description" content="DnD-Kampagne-Notizen, Obsidian-Vault, Setting und Arkanes Wissen" />',
   '<meta property="og:type" content="website" />',
   '<meta property="og:url" content="https://kboyl.github.io/friendly-dollops/" />',
-  '<meta property="og:image" content="https://kboyl.github.io/friendly-dollops/assets/EmbedThumb.png" />',
+  '<meta property="og:image" content="https://kboyl.github.io/friendly-dollops/zAssets/EmbedThumb.png" />',
   '<meta property="og:image:width" content="1200" />',
   '<meta property="og:image:height" content="630" />',
   '<meta name="twitter:card" content="summary_large_image" />',
-  '<meta name="twitter:image" content="https://kboyl.github.io/friendly-dollops/assets/EmbedThumb.png" />',
+  '<meta name="twitter:image" content="https://kboyl.github.io/friendly-dollops/zAssets/EmbedThumb.png" />',
 ],
   },
   plugins: {
@@ -86,7 +86,10 @@ additionalHead: [
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+   	filters: [
+ 	 Plugin.ExplicitPublish(),
+ 	 Plugin.RemoveDrafts(),
+		],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
