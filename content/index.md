@@ -4,11 +4,11 @@ publish: true
 # Die Gruppe
 
 <div style="display: flex; gap: 1rem;">
-  <img src="/zAssets/charaktere/Malnar Ironboot.jpg" height="200" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Gharian Sturmfaust Valu-Nakume.jpg" height="200" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Elra Dordeck.jpg" height="200"" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Thalen Morgenfeld.jpg" height="200"" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Der Barde.jpg" height="200" style="border-radius: 6px;"/>
+  <img src="/zAssets/charaktere/Malnar_Ironboot.jpg" height="200" style="border-radius: 6px;"/>
+  <img src="/zAssets/charaktere/Gharian_Sturmfaust_Valu_Nakume.jpg" height="200" style="border-radius: 6px;"/>
+  <img src="/zAssets/charaktere/Elra_Dordeck.jpg" height="200"" style="border-radius: 6px;"/>
+  <img src="/zAssets/charaktere/Thalen_Morgenfeld.jpg" height="200"" style="border-radius: 6px;"/>
+  <img src="/zAssets/charaktere/Der_Barde.jpg" height="200" style="border-radius: 6px;"/>
 </div>
 
 
