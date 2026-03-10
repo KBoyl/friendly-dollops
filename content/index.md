@@ -1,14 +1,31 @@
 ---
 publish: true
+cssclasses:
+  - index-page
 ---
 # Die Gruppe
 
-<div style="display: flex; gap: 1rem;">
-  <img src="/zAssets/charaktere/Malnar_Ironboot.jpg" height="200" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Gharian_Sturmfaust_Valu_Nakume.jpg" height="200" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Elra_Dordeck.jpg" height="200"" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Thalen_Morgenfeld.jpg" height="200"" style="border-radius: 6px;"/>
-  <img src="/zAssets/charaktere/Der_Barde.jpg" height="200" style="border-radius: 6px;"/>
+<div style="display: flex; gap: 1rem; flex-wrap: nowrap;">
+  <a href="/Charaktere/Malnar_Ironboot">
+    <img src="/zAssets/charaktere/Malnar_Ironboot.jpg" 
+         style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
+  </a>
+  <a href="/Charaktere/Gharian_Sturmfaust_Valu_Nakume">
+    <img src="/zAssets/charaktere/Gharian_Sturmfaust_Valu_Nakume.jpg" 
+         style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
+  </a>
+  <a href="/Charaktere/Elra_Dordeck">
+    <img src="/zAssets/charaktere/Elra_Dordeck.jpg" 
+         style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
+  </a>
+  <a href="/Charaktere/Thalen_Morgenfeld">
+    <img src="/zAssets/charaktere/Thalen_Morgenfeld.jpg" 
+         style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
+  </a>
+  <a href="/Charaktere/Der_Barde">
+    <img src="/zAssets/charaktere/Der_Barde.jpg" 
+         style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
+  </a>
 </div>
 
 
