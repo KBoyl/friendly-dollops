@@ -2,20 +2,21 @@
 publish: true
 cssclasses:
   - index-page
+title: Willkommen
 ---
 # Die Gruppe
 
 <div style="display: flex; gap: 1rem; flex-wrap: nowrap;">
   <a href="/Charaktere/Malnar_Ironboot">
-    <img src="/zAssets/charaktere/Malnar_Ironboot.jpg" 
+    <img src="/zAssets/charaktere/Malnar_Ironboot_thumb.jpg" 
          style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
   </a>
   <a href="/Charaktere/Gharian_Sturmfaust_Valu_Nakume">
-    <img src="/zAssets/charaktere/Gharian_Sturmfaust_Valu_Nakume.jpg" 
+    <img src="/zAssets/charaktere/Gharian_Sturmfaust_Valu_Nakume_thumb.jpg" 
          style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
   </a>
   <a href="/Charaktere/Elra_Dordeck">
-    <img src="/zAssets/charaktere/Elra_Dordeck.jpg" 
+    <img src="/zAssets/charaktere/Elra_Dordeck_thumb.jpg" 
          style="height: 150px; width: 115px; object-fit: cover; object-position: top; border-radius: 6px;"/>
   </a>
   <a href="/Charaktere/Thalen_Morgenfeld">
